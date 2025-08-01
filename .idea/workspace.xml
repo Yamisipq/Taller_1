@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c3f5adb-2f14-4dc1-a960-52fee8ec1bb6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Calculadora IMC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Verificador +18.py" afterDir="false" />
+    <list default="true" id="9c3f5adb-2f14-4dc1-a960-52fee8ec1bb6" name="Changes" comment="Primeros ejercicios, revision!.">
+      <change afterPath="$PROJECT_DIR$/Calificaciones en una lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Num Azar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tabla de multiplicar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contador de consonantes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Contador de consonantes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verificador +18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Verificador +18.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,44 +27,47 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Yamisipq"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Yamisipq&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Yamisipq/Taller_1.git",
-    "accountId": "1ace5eca-c289-4002-9ccf-5025a8b131c7"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Yamisipq/Taller_1.git&quot;,
+    &quot;accountId&quot;: &quot;1ace5eca-c289-4002-9ccf-5025a8b131c7&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="30fc6Lx12dTyBsUGnM5YE9hBe1C" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Calculadora IMC.executor": "Run",
-    "Python.Verificador +18.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "terminal",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Calculadora IMC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Contador de consonantes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Num Azar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tabla de multiplicar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Verificador +18.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,15 +83,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754021891702</updated>
-      <workItem from="1754021892869" duration="2132000" />
+      <workItem from="1754021892869" duration="7431000" />
     </task>
+    <task id="LOCAL-00001" summary="Primeros ejercicios, revision!.">
+      <option name="closed" value="true" />
+      <created>1754024807732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754024807732</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeros ejercicios, revision!." />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeros ejercicios, revision!." />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Taller_1$Calculadora_IMC.coverage" NAME="Calculadora IMC Coverage Results" MODIFIED="1754023154526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Taller_1$Verificador__18.coverage" NAME="Verificador +18 Coverage Results" MODIFIED="1754024029940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Taller_1$Tabla_de_multiplicar.coverage" NAME="Tabla de multiplicar Coverage Results" MODIFIED="1754064114960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Taller_1$Contador_de_consonantes.coverage" NAME="Contador de consonantes Coverage Results" MODIFIED="1754063896783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Taller_1$Num_Azar.coverage" NAME="Num Azar Coverage Results" MODIFIED="1754064754564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Taller_1$Verificador__18.coverage" NAME="Verificador +18 Coverage Results" MODIFIED="1754060820119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

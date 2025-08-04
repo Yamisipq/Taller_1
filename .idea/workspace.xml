@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c3f5adb-2f14-4dc1-a960-52fee8ec1bb6" name="Changes" comment="Primeros ejercicios, revision!.">
-      <change afterPath="$PROJECT_DIR$/Agenda de Contacto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista de compras.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Palindromos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Taller_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Taller_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contador de frecuencia de palabras.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conversor de unidades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elementos comun y uni entre listas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora IMC.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculadora IMC.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calificaciones en una lista.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calificaciones en una lista.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contador de consonantes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Contador de consonantes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Num Azar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Num Azar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tabla de multiplicar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla de multiplicar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Verificador +18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Verificador +18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Agenda de Contacto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda de Contacto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +53,9 @@
     "Python.Calculadora IMC.executor": "Run",
     "Python.Calificaciones en una lista.executor": "Run",
     "Python.Contador de consonantes.executor": "Run",
+    "Python.Contador de frecuencia de palabras.executor": "Run",
+    "Python.Conversor de unidades.executor": "Run",
+    "Python.Elementos comun y uni entre listas.executor": "Run",
     "Python.Lista de compras.executor": "Run",
     "Python.Num Azar.executor": "Run",
     "Python.Palindromos.executor": "Run",
@@ -68,20 +65,22 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.74" />
-        <option value="bundled-python-sdk-657d8234b839-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.90" />
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
       </set>
     </attachedChunks>
   </component>
@@ -114,14 +113,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="Primeros ejercicios, revision!." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Taller_1$Verificador__18.coverage" NAME="Verificador +18 Coverage Results" MODIFIED="1754074680957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Taller_1$Lista_de_compras.coverage" NAME="Lista de compras Coverage Results" MODIFIED="1754078598108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Taller_1$Calificaciones_en_una_lista.coverage" NAME="Calificaciones en una lista Coverage Results" MODIFIED="1754073125594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Taller_1$Contador_de_consonantes.coverage" NAME="Contador de consonantes Coverage Results" MODIFIED="1754063896783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Taller_1$Palindromos.coverage" NAME="Palindromos Coverage Results" MODIFIED="1754080023966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Taller_1$Num_Azar.coverage" NAME="Num Azar Coverage Results" MODIFIED="1754074369017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Taller_1$Tabla_de_multiplicar.coverage" NAME="Tabla de multiplicar Coverage Results" MODIFIED="1754074567924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Taller_1$Calculadora_IMC.coverage" NAME="Calculadora IMC Coverage Results" MODIFIED="1754074072816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Taller_1$Contador_de_frecuencia_de_palabras.coverage" NAME="Contador de frecuencia de palabras Coverage Results" MODIFIED="1754334699907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Taller_1$Lista_de_compras.coverage" NAME="Lista de compras Coverage Results" MODIFIED="1754078598108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Taller_1$Conversor_de_unidades.coverage" NAME="Conversor de unidades Coverage Results" MODIFIED="1754336268991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Taller_1$Verificador__18.coverage" NAME="Verificador +18 Coverage Results" MODIFIED="1754060820119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Taller_1$Calculadora_IMC.coverage" NAME="Calculadora IMC Coverage Results" MODIFIED="1754023154526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Taller_1$Agenda_de_Contacto.coverage" NAME="Agenda de Contacto Coverage Results" MODIFIED="1754081687772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Taller_1$Contador_de_consonantes.coverage" NAME="Contador de consonantes Coverage Results" MODIFIED="1754073609346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Taller_1$Tabla_de_multiplicar.coverage" NAME="Tabla de multiplicar Coverage Results" MODIFIED="1754064114960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Taller_1$Elementos_comun_y_uni_entre_listas.coverage" NAME="Elementos comun y uni entre listas Coverage Results" MODIFIED="1754335564112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Taller_1$Num_Azar.coverage" NAME="Num Azar Coverage Results" MODIFIED="1754064754564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

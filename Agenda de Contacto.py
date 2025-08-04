@@ -1,4 +1,13 @@
 def agenda_contacto():
+    """
+        1. Añadir un nuevo contacto con nombre y teléfono.
+        2. Buscar un contacto por nombre.
+        3. Eliminar un contacto existente.
+        4. Mostrar todos los contactos almacenados.
+        5. Salir del programa.
+
+    Esta función implementa una agenda de contactos simple en la consola.
+    """
     agenda = {}
 
     while True:

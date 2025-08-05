@@ -9,8 +9,6 @@ def calificaciones(notas: list[float]) -> tuple[float, float, float]:
 
     :return: Tupla con el promedio y la calificación más alta y baja.
     """
-    if not calificaciones:
-        raise ValueError("La lista esta vacia") # Manejo de caso vacío
 
     promedio = sum(notas) / len(notas)
     max_calificacion = max(notas)

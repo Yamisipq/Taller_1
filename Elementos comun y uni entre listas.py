@@ -11,6 +11,6 @@ def listas():
 
 comunes, unicos_lista1, unicos_lista2 = listas()
 
-print("Elementos comunes:", comunes, "\n")
-print("Elementos de la primera lista:", unicos_lista1, "\n")
-print("Elementos de la segunda lista:", unicos_lista2)
+print(f"Elementos comunes: {comunes}", "\n")
+print(f"Elementos de la primera lista: {unicos_lista1}", "\n")
+print(f"Elementos de la segunda lista: {unicos_lista2}")

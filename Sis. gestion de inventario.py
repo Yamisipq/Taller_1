@@ -9,7 +9,7 @@ def agregar_producto(inventario):
     cantidad = int(input("Cantidad: "))
     producto = {"nombre": nombre, "precio": precio, "cantidad": cantidad}
     inventario.append(producto)
-    print("Producto agregado.\n")
+    print(f"Producto agregado; {producto} \n")
 
 def realizar_venta(inventario):
     """
@@ -37,7 +37,7 @@ def mostrar_inventario(inventario):
     """
     print("\nInventario:")
     for producto in inventario:
-        print(f"- {producto['nombre']}: {producto['cantidad']} unidades, ${producto['precio']}")
+        print(f"{producto['nombre']}: {producto['cantidad']} unidades, ${producto['precio']}")
     print()
 
 def menu_inventario():

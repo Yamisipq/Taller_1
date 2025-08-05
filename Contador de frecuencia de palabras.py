@@ -12,5 +12,4 @@ def frecuenciaPalabras():
         frecuencia[palabra] = frecuencia.get(palabra, 0) + 1
     return frecuencia
 
-# Imprime el resultado
 print(frecuenciaPalabras())

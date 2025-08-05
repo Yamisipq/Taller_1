@@ -1,11 +1,3 @@
-conversion = {
-    'metro': 1,
-    'pie': 3.28084,
-    'centimetro': 100,
-    'kilometro': 0.001,
-    'pulgada': 39.3701
-}
-
 def convertir_unidades(cantidad, unidad_origen, unidad_destino):
     """
     Convierte una cantidad de una unidad a otra usando factores de conversión.
@@ -17,6 +9,14 @@ def convertir_unidades(cantidad, unidad_origen, unidad_destino):
 
     :return: float o None - Cantidad convertida o None si hay error
     """
+    conversion = {
+        'metro': 1,
+        'pie': 3.28084,
+        'centimetro': 100,
+        'kilometro': 0.001,
+        'pulgada': 39.3701
+    }
+
     if unidad_origen not in conversion:
         print(f"Unidad de origen '{unidad_origen}' no encontrada.")
         return None
